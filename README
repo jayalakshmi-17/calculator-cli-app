@@ -1,0 +1,25 @@
+# 🧮 Calculator CLI App
+
+A simple **command-line calculator** built using Python.  
+This app supports basic arithmetic operations and runs directly in the terminal.  
+
+---
+
+## 🚀 Features
+- Addition ➕
+- Subtraction ➖
+- Multiplication ✖️
+- Division ➗ (with zero-division handling)
+- Simple menu-driven interface
+- Runs until you choose to exit
+
+---
+
+## 🛠️ Tools & Technologies
+- **Language:** Python  
+- **Editor:** VS Code / Any text editor  
+- **Execution:** Terminal / Command Prompt  
+
+---
+
+## 📂 Project Structure
